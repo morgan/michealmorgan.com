@@ -34,6 +34,17 @@ a:hover {
     width: 360px;
     margin: 90px auto 0 50px !important;
 }
-#container p a {
+#container p a, #attribution a {
     font-weight: bold;
+}
+#attribution {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 11px;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+#attribution a {
+  color: #fff;
 }
