@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fff;
+}
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    margin-bottom: 20px;
+    line-height: 130%;
+    color: #000;
+}
+p {
+    color: #000;
+    font-family: Helvetica;
+    font-size: 80%;
+    line-height: 20px;
+    margin-bottom: 15px;
+    -webkit-font-smoothing: antialiased; 
+}
+a {
+    color: #000;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+a:hover {
+    color: #336699;
+    border-bottom: 1px solid rgba(255,255,255,1);
+}
+#container {
+    width: 360px;
+    margin: 90px auto 0 50px !important;
+}
+#container p a {
+    font-weight: bold;
+}
