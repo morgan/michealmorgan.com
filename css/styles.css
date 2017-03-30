@@ -33,10 +33,10 @@ a:hover {
 }
 #container {
     width: 30%;
-    min-width: 300px;
+    min-width: 360px;
     max-width: 360px;
     overflow: visible;
-    margin: 90px auto 0 50px !important;
+    margin: 80px auto 0 50px !important;
 }
 #container p a {
     font-weight: bold;
@@ -49,7 +49,7 @@ a:hover {
 
   #container {
     margin-top: 20px;
-    min-width: 200px;
+    min-width: 280px;
     max-width: 280px;
   }
 }
