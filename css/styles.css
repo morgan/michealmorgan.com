@@ -48,12 +48,24 @@ a:hover {
 }
 @media only screen and (max-width: 600px), (max-height: 600px) {
   html {
-    background-position: 10% -100%;
+    background-position: 10% 0;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  #hello a {
+    color: #fff;
+  }
+  small {
+    color: #fff;
+  }
+  small a {
+    color: #fff;
   }
   #container {
     margin-top: 40px;
     margin-left: 25px;
-    min-width: 300px;
-    max-width: 300px;
+    min-width: 290px;
+    max-width: 290px;
   }
 }
