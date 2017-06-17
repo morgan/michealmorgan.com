@@ -1,8 +1,5 @@
 # Mícheál Morgan Landing
 
-[![license][license-image]][license-url]
-[![changelog][changelog-image]][changelog-url]
-
 ## Summary
 
 Personal landing page for [michealmorgan.com](michealmorgan.com).
