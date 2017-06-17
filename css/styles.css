@@ -1,10 +1,13 @@
-body {
+html {
     background-image: url("../images/background.jpg");
+    background-color: #fff;
     background-position: bottom left;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #fff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 h1 {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -36,20 +39,21 @@ a:hover {
     min-width: 360px;
     max-width: 360px;
     overflow: visible;
-    margin: 65px auto 0 50px !important;
+    margin-top: 65px;
+    margin-left: 50px;
+    margin-right: auto;
 }
 #container p a {
     font-weight: bold;
 }
 @media only screen and (max-width: 600px), (max-height: 600px) {
-  p {
-    font-size: 12px;
-    line-height: 20px;
+  html {
+    background-position: 8% -100%;
   }
-
   #container {
-    margin-top: 20px;
-    min-width: 280px;
-    max-width: 280px;
+    margin-top: 40px;
+    margin-left: 25px;
+    min-width: 300px;
+    max-width: 300px;
   }
 }
