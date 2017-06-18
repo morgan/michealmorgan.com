@@ -1,5 +1,7 @@
 # Mícheál Morgan Landing
 
+[![license][license-image]][license-url] [![changelog][changelog-image]][changelog-url]
+
 ## Summary
 
 Personal landing page for [michealmorgan.com](michealmorgan.com).
@@ -20,3 +22,8 @@ Let's face it, we update our personal sites once in a blue moon. This go around,
 - One large recent photo of yours truly
 - Relevant links to work, social media, etc
 - Summary of who I am and what I love
+
+[license-image]: https://img.shields.io/github/license/morgan/michealmorgan.svg
+[license-url]: LICENSE.md
+[changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg
+[changelog-url]: CHANGELOG.md
