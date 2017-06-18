@@ -23,7 +23,7 @@ Let's face it, we update our personal sites once in a blue moon. This go around,
 - Relevant links to work, social media, etc
 - Summary of who I am and what I love
 
-[license-image]: https://img.shields.io/github/license/morgan/michealmorgan.svg
+[license-image]: https://img.shields.io/github/license/morgan/michealmorgan.com.svg
 [license-url]: LICENSE.md
 [changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg
 [changelog-url]: CHANGELOG.md
