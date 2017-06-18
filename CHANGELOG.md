@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Initial release featuring a minimal design, one image and no JavaScript.
 - Worked through responsive issue around iOS not supporting `background-attachment` of `fixed`. Resolution was to use `scroll` given that there is a limited amount of content.
+- Added [Open Graph](http://ogp.me/) tags.
 
 [Unreleased]: https://github.com/morgan/michealmorgan.com/compare/v0.1.0...HEAD
 [0.1.0]: https://github.com/morgan/michealmorgan.com/compare/v0.1.0
