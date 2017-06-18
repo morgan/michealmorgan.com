@@ -10,6 +10,7 @@ Let's face it, we update our personal sites once in a blue moon. This go around,
 
 - No JavaScript
 - Minimalistic code
+- Responsive
 - Single external library for CSS resets [https://github.com/necolas/normalize.css/](normalize.css)
 - Self contained with no outside dependencies - *Other than Google Analytics phoning home*
 - Hosted on [GitHub Pages](https://pages.github.com/) using [Cloudflare](https://www.cloudflare.com/) for TLS via a reverse proxy
