@@ -4,7 +4,7 @@
 
 ## Summary
 
-Personal landing page for [michealmorgan.com](michealmorgan.com).
+Personal landing page for [michealmorgan.com](https://michealmorgan.com).
 
 Let's face it, we update our personal sites once in a blue moon. This go around, I wanted something that used the least amount of tech as possible. Something that when I go to perform an update in however many months/years, there are no frameworks or dead JavaScript to tend to. Just plain old HTML and CSS. 
 
